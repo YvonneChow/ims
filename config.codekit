@@ -1,0 +1,3500 @@
+{
+"CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
+"creatorBuild": "19127",
+"files": {
+	"\/alphacyn_sob_inmat.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/alphacyn_sob_inmat.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/alphacyn_sob_inmonth.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/alphacyn_sob_inmonth.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/alphacyn_sob_inquarter.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/alphacyn_sob_inquarter.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/alphacyn_sob_intotal.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/alphacyn_sob_intotal.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/co_alphacyn_timely_pat.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/co_alphacyn_timely_pat.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/compliance.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/compliance.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/compliance_categories_pat.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/compliance_categories_pat.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/compliance_categories_percent.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/compliance_categories_percent.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/compliance_intime_pat.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/compliance_intime_pat.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/compliance_intime_percent.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/compliance_intime_percent.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/compliance_ranges_pat.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/compliance_ranges_pat.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/compliance_ranges_percent.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/compliance_ranges_percent.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/app.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/app.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/app.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/app.scss",
+		"outputAbbreviatedPath": "\/css\/app.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/css\/demo.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/demo.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/demo.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/demo.scss",
+		"outputAbbreviatedPath": "\/css\/demo.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/IMS_360_styles\/app.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/IMS_360_styles\/app.less",
+		"outputAbbreviatedPath": "\/css\/app.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/IMS_360_styles\/partials\/colors.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/IMS_360_styles\/partials\/colors.less",
+		"outputAbbreviatedPath": "\/IMS_360_styles\/css\/colors.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/IMS_360_styles\/partials\/controls.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/IMS_360_styles\/partials\/controls.less",
+		"outputAbbreviatedPath": "\/IMS_360_styles\/css\/controls.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/IMS_360_styles\/partials\/font-face.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/IMS_360_styles\/partials\/font-face.less",
+		"outputAbbreviatedPath": "\/IMS_360_styles\/css\/font-face.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/IMS_360_styles\/partials\/reports.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/IMS_360_styles\/partials\/reports.less",
+		"outputAbbreviatedPath": "\/IMS_360_styles\/css\/reports.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/IMS_360_styles\/partials\/structure.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/IMS_360_styles\/partials\/structure.less",
+		"outputAbbreviatedPath": "\/IMS_360_styles\/css\/structure.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/IMS_360_styles\/partials\/typography.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/IMS_360_styles\/partials\/typography.less",
+		"outputAbbreviatedPath": "\/IMS_360_styles\/css\/typography.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/IMS_360_styles\/partials\/workspace.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/IMS_360_styles\/partials\/workspace.less",
+		"outputAbbreviatedPath": "\/IMS_360_styles\/css\/workspace.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/IMS_360_styles\/reports\/line-of-therapy.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/IMS_360_styles\/reports\/line-of-therapy.less",
+		"outputAbbreviatedPath": "\/IMS_360_styles\/css\/line-of-therapy.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/IMS_360_styles\/reports\/matrix-report.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/IMS_360_styles\/reports\/matrix-report.less",
+		"outputAbbreviatedPath": "\/IMS_360_styles\/css\/matrix-report.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/IMS_360_styles\/reports\/persistence.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/IMS_360_styles\/reports\/persistence.less",
+		"outputAbbreviatedPath": "\/IMS_360_styles\/css\/persistence.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/IMS_360_styles\/reports\/source-of-business.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/IMS_360_styles\/reports\/source-of-business.less",
+		"outputAbbreviatedPath": "\/IMS_360_styles\/css\/source-of-business.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/IMS_360_styles\/test.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/IMS_360_styles\/test.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/js\/alphacyn_sob_inmat.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/alphacyn_sob_inmat.js",
+		"outputAbbreviatedPath": "\/js\/min\/alphacyn_sob_inmat-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/alphacyn_sob_inmonth.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/alphacyn_sob_inmonth.js",
+		"outputAbbreviatedPath": "\/js\/min\/alphacyn_sob_inmonth-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/alphacyn_sob_inquarter.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/alphacyn_sob_inquarter.js",
+		"outputAbbreviatedPath": "\/js\/min\/alphacyn_sob_inquarter-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/alphacyn_sob_intotal.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/alphacyn_sob_intotal.js",
+		"outputAbbreviatedPath": "\/js\/min\/alphacyn_sob_intotal-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/co_alphacyn_timely_pat.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/co_alphacyn_timely_pat.js",
+		"outputAbbreviatedPath": "\/js\/min\/co_alphacyn_timely_pat-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/compliance_categories_pat.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/compliance_categories_pat.js",
+		"outputAbbreviatedPath": "\/js\/min\/compliance_categories_pat-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/compliance_categories_percent.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/compliance_categories_percent.js",
+		"outputAbbreviatedPath": "\/js\/min\/compliance_categories_percent-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/compliance_intime_pat.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/compliance_intime_pat.js",
+		"outputAbbreviatedPath": "\/js\/min\/compliance_intime_pat-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/compliance_intime_percent.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/compliance_intime_percent.js",
+		"outputAbbreviatedPath": "\/js\/min\/compliance_intime_percent-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/compliance_ranges_pat.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/compliance_ranges_pat.js",
+		"outputAbbreviatedPath": "\/js\/min\/compliance_ranges_pat-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/compliance_ranges_percent.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/compliance_ranges_percent.js",
+		"outputAbbreviatedPath": "\/js\/min\/compliance_ranges_percent-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/draw_compliance_chart.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/draw_compliance_chart.js",
+		"outputAbbreviatedPath": "\/js\/min\/draw_compliance_chart-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/draw_sob_chart.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/draw_sob_chart.js",
+		"outputAbbreviatedPath": "\/js\/min\/draw_sob_chart-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/alphacyn_sob_inmat-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/alphacyn_sob_inmat-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/alphacyn_sob_inmat-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/alphacyn_sob_inmonth-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/alphacyn_sob_inmonth-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/alphacyn_sob_inmonth-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/alphacyn_sob_inquarter-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/alphacyn_sob_inquarter-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/alphacyn_sob_inquarter-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/alphacyn_sob_intotal-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/alphacyn_sob_intotal-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/alphacyn_sob_intotal-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/app-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/app-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/app-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/co_alphacyn_timely_pat-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/co_alphacyn_timely_pat-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/co_alphacyn_timely_pat-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/compliance_caegories_pat-min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/compliance_caegories_pat-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/compliance_caegories_pat-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/compliance_caegories_percent-min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/compliance_caegories_percent-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/compliance_caegories_percent-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/compliance_categories_pat-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/compliance_categories_pat-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/compliance_categories_pat-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/compliance_categories_percent-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/compliance_categories_percent-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/compliance_categories_percent-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/compliance_intime_pat-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/compliance_intime_pat-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/compliance_intime_pat-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/compliance_intime_percent-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/compliance_intime_percent-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/compliance_intime_percent-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/compliance_ranges_pat-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/compliance_ranges_pat-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/compliance_ranges_pat-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/compliance_ranges_percent-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/compliance_ranges_percent-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/compliance_ranges_percent-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/draw_chart-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/draw_chart-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/draw_chart-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/draw_sob_chart-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/draw_sob_chart-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/draw_sob_chart-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/persistence-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/persistence-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/persistence-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/persistence_on_patient-min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/persistence_on_patient-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/persistence_on_patient-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/persistence_on_patients-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/persistence_on_patients-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/persistence_on_patients-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/switchmatrix-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/switchmatrix-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/switchmatrix-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/persistence.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/persistence.js",
+		"outputAbbreviatedPath": "\/js\/min\/persistence-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/sankey.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/sankey.js",
+		"outputAbbreviatedPath": "\/js\/min\/sankey-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/switchmatrix.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/switchmatrix.js",
+		"outputAbbreviatedPath": "\/js\/min\/switchmatrix-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/switchmatrix_asthma.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/switchmatrix_asthma.js",
+		"outputAbbreviatedPath": "\/js\/min\/switchmatrix_asthma-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/lineoftherapy.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/lineoftherapy.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/min\/co_alphacyn_timely_pat-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/min\/co_alphacyn_timely_pat-min.js",
+		"outputAbbreviatedPath": "\/min\/min\/co_alphacyn_timely_pat-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/persistence_on_patients.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/persistence_on_patients.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/persistence_on_percent.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/persistence_on_percent.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/question_module1.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/question_module1.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/question_module1-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/README.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/README.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/README.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/report Designs 11 Sep 2015\/imsHealth_icons.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13960,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/imsHealth_icons.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/imsHealth_icons.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0000_patients.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106741,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0000_patients.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0000_patients.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0001_switch-report.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112397,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0001_switch-report.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0001_switch-report.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0002_parameters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120131,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0002_parameters.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0002_parameters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0003_parameters-mode-1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 131756,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0003_parameters-mode-1.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0003_parameters-mode-1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0004_parameters-mode-4.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120131,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0004_parameters-mode-4.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0004_parameters-mode-4.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0005_time-parameters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113107,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0005_time-parameters.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0005_time-parameters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0006_time-custom.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 114467,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0006_time-custom.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0006_time-custom.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0007_more-information.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 122940,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0007_more-information.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0007_more-information.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0008_patientTotal.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68544,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0008_patientTotal.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0008_patientTotal.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0009_daysOfTreatmentTotal.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67710,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0009_daysOfTreatmentTotal.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0009_daysOfTreatmentTotal.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0010_daysofTreatment.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 163795,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0010_daysofTreatment.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0010_daysofTreatment.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0011_focus-drug-2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 131754,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0011_focus-drug-2.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0011_focus-drug-2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0012_focus-drug-3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 119807,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0012_focus-drug-3.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/coMedication\/imsHealth_coMedication_0012_focus-drug-3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0000_patient-range.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 133811,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0000_patient-range.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0000_patient-range.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0000_range.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160877,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0000_range.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0000_range.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0001_switch-report.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 136641,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0001_switch-report.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0001_switch-report.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0002_patient-categories.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 70109,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0002_patient-categories.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0002_patient-categories.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0003_parameters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 137725,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0003_parameters.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0003_parameters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0004_time-parameters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 138728,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0004_time-parameters.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0004_time-parameters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0005_time-custom.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 142303,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0005_time-custom.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0005_time-custom.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0006_more-information.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 146779,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0006_more-information.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0006_more-information.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0007_internal-parameters-advanced-.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 140401,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0007_internal-parameters-advanced-.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0007_internal-parameters-advanced-.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0008_percent-categories.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76312,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0008_percent-categories.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0008_percent-categories.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0009_percent-ranges.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 146676,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0009_percent-ranges.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0009_percent-ranges.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0010_in-time-percent.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120095,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0010_in-time-percent.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0010_in-time-percent.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0011_in-time-patients.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104262,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0011_in-time-patients.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/compliance\/imsHealth_compliance_0011_in-time-patients.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0000_line-of-treatment.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 96172,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0000_line-of-treatment.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0000_line-of-treatment.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0001_tip.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49153,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0001_tip.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0001_tip.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0002_tip-2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56144,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0002_tip-2.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0002_tip-2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0003_parameters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97891,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0003_parameters.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0003_parameters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0004_parameters-line-of-therapy.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99213,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0004_parameters-line-of-therapy.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0004_parameters-line-of-therapy.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0005_time-parameters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 102315,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0005_time-parameters.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0005_time-parameters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0006_time-custom.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 102741,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0006_time-custom.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0006_time-custom.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0007_internal-parameters-expanded.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108158,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0007_internal-parameters-expanded.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0007_internal-parameters-expanded.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0008_more-information.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107991,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0008_more-information.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0008_more-information.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0009_internal-parameters-2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91901,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0009_internal-parameters-2.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/lineOfTherapy\/imsHealth_lineOfTherapy_0009_internal-parameters-2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0000_matrix.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 86977,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0000_matrix.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0000_matrix.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0001_switch-report.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113548,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0001_switch-report.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0001_switch-report.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0002_parameters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100040,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0002_parameters.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0002_parameters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0003_time-parameters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 102524,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0003_time-parameters.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0003_time-parameters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0004_time-custom.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104102,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0004_time-custom.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0004_time-custom.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0005_more-information.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 101654,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0005_more-information.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0005_more-information.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0006_line.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110559,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0006_line.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0006_line.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0007_bars.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71263,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0007_bars.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0007_bars.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0008_stacked-bars.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66673,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0008_stacked-bars.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0008_stacked-bars.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0009_matrix-parameters-2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 129737,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0009_matrix-parameters-2.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0009_matrix-parameters-2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0010_matrix-parameters-3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128607,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0010_matrix-parameters-3.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/matrixReport\/imsHealth_matrixReport_0010_matrix-parameters-3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0000_matrix.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 87929,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0000_matrix.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0000_matrix.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0001_switch-report.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115024,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0001_switch-report.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0001_switch-report.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0002_parameters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 96877,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0002_parameters.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0002_parameters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0005_time-parameters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99732,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0005_time-parameters.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0005_time-parameters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0006_time-custom.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 101692,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0006_time-custom.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0006_time-custom.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0007_more-information.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99742,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0007_more-information.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0007_more-information.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0008_line.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112097,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0008_line.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0008_line.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0009_bars.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71046,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0009_bars.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0009_bars.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0010_stacked-bars.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81717,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0010_stacked-bars.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0010_stacked-bars.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0011_matrix-parameters-2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 126709,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0011_matrix-parameters-2.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0011_matrix-parameters-2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0012_matrix-parameters-3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120308,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0012_matrix-parameters-3.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0012_matrix-parameters-3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0013_generate-chart.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94937,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0013_generate-chart.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0013_generate-chart.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0014_dimension-options.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93000,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0014_dimension-options.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientDemographics\/imsHealth_patientDemographics_0014_dimension-options.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/patientsOnDrugs\/imsHealth_patientsOnDrug_0000_patients.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104681,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientsOnDrugs\/imsHealth_patientsOnDrug_0000_patients.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientsOnDrugs\/imsHealth_patientsOnDrug_0000_patients.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/patientsOnDrugs\/imsHealth_patientsOnDrug_0001_switch-report.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110912,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientsOnDrugs\/imsHealth_patientsOnDrug_0001_switch-report.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientsOnDrugs\/imsHealth_patientsOnDrug_0001_switch-report.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/patientsOnDrugs\/imsHealth_patientsOnDrug_0002_patient-categories.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94948,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientsOnDrugs\/imsHealth_patientsOnDrug_0002_patient-categories.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientsOnDrugs\/imsHealth_patientsOnDrug_0002_patient-categories.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/patientsOnDrugs\/imsHealth_patientsOnDrug_0003_active-patients.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 117003,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientsOnDrugs\/imsHealth_patientsOnDrug_0003_active-patients.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientsOnDrugs\/imsHealth_patientsOnDrug_0003_active-patients.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/patientsOnDrugs\/imsHealth_patientsOnDrug_0004_parameters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110591,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientsOnDrugs\/imsHealth_patientsOnDrug_0004_parameters.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientsOnDrugs\/imsHealth_patientsOnDrug_0004_parameters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/patientsOnDrugs\/imsHealth_patientsOnDrug_0005_time-parameters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115072,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientsOnDrugs\/imsHealth_patientsOnDrug_0005_time-parameters.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientsOnDrugs\/imsHealth_patientsOnDrug_0005_time-parameters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/patientsOnDrugs\/imsHealth_patientsOnDrug_0006_time-custom.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 122518,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientsOnDrugs\/imsHealth_patientsOnDrug_0006_time-custom.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientsOnDrugs\/imsHealth_patientsOnDrug_0006_time-custom.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/patientsOnDrugs\/imsHealth_patientsOnDrug_0007_more-information.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 117043,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientsOnDrugs\/imsHealth_patientsOnDrug_0007_more-information.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/patientsOnDrugs\/imsHealth_patientsOnDrug_0007_more-information.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0000_survivorship.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 153548,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0000_survivorship.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0000_survivorship.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0001_switch-report.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 156889,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0001_switch-report.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0001_switch-report.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0002_patients.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 111240,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0002_patients.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0002_patients.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0003_parameters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 159205,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0003_parameters.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0003_parameters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0004_time-parameters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 161358,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0004_time-parameters.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0004_time-parameters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0005_time-custom.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 169036,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0005_time-custom.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0005_time-custom.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0006_advanced-parameters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 163874,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0006_advanced-parameters.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0006_advanced-parameters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0007_more-information.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 169308,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0007_more-information.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0007_more-information.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0008_bars.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 70798,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0008_bars.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/persistence\/imsHealth_persistence_0008_bars.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0000_monthly.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81389,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0000_monthly.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0000_monthly.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0001_switch-report.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76156,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0001_switch-report.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0001_switch-report.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0002_switch-medication.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78322,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0002_switch-medication.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0002_switch-medication.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0003_monthly-before-title.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80256,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0003_monthly-before-title.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0003_monthly-before-title.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0004_enter-title.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80653,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0004_enter-title.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0004_enter-title.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0005_titled.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81362,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0005_titled.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0005_titled.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0006_parameters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76787,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0006_parameters.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0006_parameters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0007_parameters-dimensions.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93864,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0007_parameters-dimensions.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0007_parameters-dimensions.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0008_time-parameters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85115,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0008_time-parameters.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0008_time-parameters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0009_time-custom.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91691,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0009_time-custom.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0009_time-custom.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0010_switch-matrix-parameters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 429920,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0010_switch-matrix-parameters.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0010_switch-matrix-parameters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0011_parameters-internal.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 77337,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0011_parameters-internal.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0011_parameters-internal.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0012_internal-parameters-advanced-.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100402,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0012_internal-parameters-advanced-.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0012_internal-parameters-advanced-.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0013_internal-parameters-expanded.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 118356,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0013_internal-parameters-expanded.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0013_internal-parameters-expanded.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0014_quarterly.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 70724,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0014_quarterly.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0014_quarterly.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0015_mat.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64646,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0015_mat.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0015_mat.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0016_total-time.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59186,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0016_total-time.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0016_total-time.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0017_switch-matrix.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 429992,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0017_switch-matrix.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0017_switch-matrix.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0018_tip-losses.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 353610,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0018_tip-losses.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0018_tip-losses.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0019_tip-wins.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 375142,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0019_tip-wins.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0019_tip-wins.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0020_tip-individual.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 335014,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0020_tip-individual.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0020_tip-individual.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0021_balance-switch-matrix.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 440321,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0021_balance-switch-matrix.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0021_balance-switch-matrix.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0022_more-information.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 356570,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0022_more-information.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0022_more-information.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0023_project-settings.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106897,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0023_project-settings.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0023_project-settings.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0024_internal-project-settings.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110626,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0024_internal-project-settings.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceofbiz_0024_internal-project-settings.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0000_monthly.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79894,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0000_monthly.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0000_monthly.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0001_switch-report.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74628,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0001_switch-report.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0001_switch-report.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0002_switch-medication.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76878,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0002_switch-medication.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0002_switch-medication.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0003_monthly-before-title.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78753,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0003_monthly-before-title.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0003_monthly-before-title.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0004_enter-title.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79020,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0004_enter-title.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0004_enter-title.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0005_titled.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79879,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0005_titled.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0005_titled.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0006_parameters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75458,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0006_parameters.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0006_parameters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0007_parameters-dimensions.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92541,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0007_parameters-dimensions.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0007_parameters-dimensions.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0008_time-parameters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83645,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0008_time-parameters.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0008_time-parameters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0009_time-custom.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91916,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0009_time-custom.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0009_time-custom.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0010_switch-matrix-parameters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 428873,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0010_switch-matrix-parameters.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0010_switch-matrix-parameters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0011_parameters-internal.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76079,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0011_parameters-internal.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0011_parameters-internal.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0012_internal-parameters-advanced-.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98999,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0012_internal-parameters-advanced-.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0012_internal-parameters-advanced-.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0013_internal-parameters-expanded.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 116558,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0013_internal-parameters-expanded.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0013_internal-parameters-expanded.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0014_quarterly.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69232,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0014_quarterly.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0014_quarterly.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0015_mat.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63461,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0015_mat.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0015_mat.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0016_total-time.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58215,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0016_total-time.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0016_total-time.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0017_switch-matrix.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 429279,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0017_switch-matrix.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0017_switch-matrix.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0018_tip-losses.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 353811,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0018_tip-losses.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0018_tip-losses.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0019_tip-wins.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 374459,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0019_tip-wins.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0019_tip-wins.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0020_tip-individual.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 334151,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0020_tip-individual.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0020_tip-individual.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0021_balance-switch-matrix.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 439395,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0021_balance-switch-matrix.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0021_balance-switch-matrix.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0022_more-information.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 355599,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0022_more-information.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0022_more-information.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0023_project-settings.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104759,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0023_project-settings.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0023_project-settings.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0024_internal-project-settings.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108795,
+		"inputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0024_internal-project-settings.png",
+		"outputAbbreviatedPath": "\/report Designs 11 Sep 2015\/pngs\/sourceOfBusiness\/imsHealth_sourceOfBusiness_0024_internal-project-settings.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/sob.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sob.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/imsHealth_icons.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11619,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/imsHealth_icons.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/imsHealth_icons.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_companyWorkspace_0000_landing.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 211823,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_companyWorkspace_0000_landing.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_companyWorkspace_0000_landing.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_companyWorkspace_0001_project-settings.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 194634,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_companyWorkspace_0001_project-settings.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_companyWorkspace_0001_project-settings.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_companyWorkspace_0002_internal-expanded.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 198279,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_companyWorkspace_0002_internal-expanded.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_companyWorkspace_0002_internal-expanded.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_companyWorkspace_0003_internal.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 183307,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_companyWorkspace_0003_internal.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_companyWorkspace_0003_internal.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_companyWorkspace_0004_report-options.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 212501,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_companyWorkspace_0004_report-options.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_companyWorkspace_0004_report-options.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0000_monthly.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79894,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0000_monthly.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0000_monthly.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0001_switch-report.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74628,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0001_switch-report.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0001_switch-report.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0002_switch-medication.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76878,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0002_switch-medication.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0002_switch-medication.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0003_monthly-before-title.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78753,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0003_monthly-before-title.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0003_monthly-before-title.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0004_enter-title.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79020,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0004_enter-title.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0004_enter-title.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0005_titled.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79879,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0005_titled.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0005_titled.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0006_parameters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75458,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0006_parameters.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0006_parameters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0007_parameters-dimensions.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92541,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0007_parameters-dimensions.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0007_parameters-dimensions.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0008_time-parameters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83645,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0008_time-parameters.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0008_time-parameters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0009_time-custom.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91916,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0009_time-custom.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0009_time-custom.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0010_switch-matrix-parameters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 428873,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0010_switch-matrix-parameters.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0010_switch-matrix-parameters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0011_parameters-internal.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76079,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0011_parameters-internal.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0011_parameters-internal.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0012_internal-parameters-advanced-.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98999,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0012_internal-parameters-advanced-.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0012_internal-parameters-advanced-.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0013_internal-parameters-expanded.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 116558,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0013_internal-parameters-expanded.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0013_internal-parameters-expanded.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0014_quarterly.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69232,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0014_quarterly.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0014_quarterly.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0015_mat.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63461,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0015_mat.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0015_mat.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0016_total-time.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58215,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0016_total-time.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0016_total-time.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0017_switch-matrix.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 429279,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0017_switch-matrix.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0017_switch-matrix.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0018_tip-losses.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 353811,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0018_tip-losses.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0018_tip-losses.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0019_tip-wins.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 374459,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0019_tip-wins.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0019_tip-wins.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0020_tip-individual.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 334151,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0020_tip-individual.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0020_tip-individual.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0021_balance-switch-matrix.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 439395,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0021_balance-switch-matrix.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0021_balance-switch-matrix.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0022_more-information.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 355599,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0022_more-information.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0022_more-information.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0023_project-settings.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104759,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0023_project-settings.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0023_project-settings.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0024_internal-project-settings.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108795,
+		"inputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0024_internal-project-settings.png",
+		"outputAbbreviatedPath": "\/Source of Business Designs 27 Aug 2015\/SourceOfBusinessPngs\/imsHealth_sourceOfBusiness_0024_internal-project-settings.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/switchmatrix_month.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/switchmatrix_month.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/switchmatrix_month_asthma.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/switchmatrix_month_asthma.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/switchmatrix_total.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/switchmatrix_total.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		}
+	},
+"hooks": [
+	],
+"lastSavedByUser": "Yanyang Zhou",
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"bowerAbbreviatedPath": "",
+	"displayValue": "IMS-Health",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "compass_blue"
+	},
+"projectSettings": {
+	"alwaysUseExternalServer": 0,
+	"animateCSSInjections": 1,
+	"autoApplyPSLanguageSettingsStyle": 0,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoSyncProjectSettingsFile": 1,
+	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
+	"coffeeAutoOutputPathRelativePath": "",
+	"coffeeAutoOutputPathReplace1": "",
+	"coffeeAutoOutputPathReplace2": "",
+	"coffeeAutoOutputPathStyle": 0,
+	"coffeeCreateSourceMap": 0,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"ensure_comprehensions": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_nested_string_interpolation": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_private_function_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"spacing_after_comma": {
+			"active": 1,
+			"flagValue": -1
+			}
+		},
+	"coffeeMinifyOutput": 1,
+	"coffeeOutputStyle": 0,
+	"coffeeSyntaxCheckerStyle": 1,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerPreviewPathAddition": "",
+	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
+	"hamlAutoOutputPathRelativePath": "",
+	"hamlAutoOutputPathReplace1": "",
+	"hamlAutoOutputPathReplace2": "",
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
+	"hamlNoEscapeInAttributes": 0,
+	"hamlOutputFormat": 2,
+	"hamlOutputStyle": 0,
+	"hamlUseCDATA": 0,
+	"hamlUseDoubleQuotes": 0,
+	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
+	"jadeAutoOutputPathRelativePath": "",
+	"jadeAutoOutputPathReplace1": "",
+	"jadeAutoOutputPathReplace2": "",
+	"jadeAutoOutputPathStyle": 0,
+	"jadeCompileDebug": 1,
+	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
+	"javascriptAutoOutputPathRelativePath": "\/min",
+	"javascriptAutoOutputPathReplace1": "",
+	"javascriptAutoOutputPathReplace2": "",
+	"javascriptAutoOutputPathStyle": 2,
+	"javascriptCreateSourceMap": 1,
+	"javascriptOutputStyle": 1,
+	"javascriptSyntaxCheckerStyle": 1,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"browserify": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"elision": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"futurehostile": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jasmine": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mocha": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nocomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"qunit": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"singleGroups": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"varstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es6": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"for": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsonAutoOutputPathEnabled": 0,
+	"jsonAutoOutputPathFilenamePattern": "*-min.json",
+	"jsonAutoOutputPathRelativePath": "",
+	"jsonAutoOutputPathReplace1": "",
+	"jsonAutoOutputPathReplace2": "",
+	"jsonAutoOutputPathStyle": 0,
+	"jsonOrderOutput": 0,
+	"jsonOutputStyle": 1,
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
+	"kitAutoOutputPathRelativePath": "",
+	"kitAutoOutputPathReplace1": "",
+	"kitAutoOutputPathReplace2": "",
+	"kitAutoOutputPathStyle": 0,
+	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
+	"lessAutoOutputPathRelativePath": "..\/css",
+	"lessAutoOutputPathReplace1": "less",
+	"lessAutoOutputPathReplace2": "css",
+	"lessAutoOutputPathStyle": 2,
+	"lessCreateSourceMap": 0,
+	"lessDisableJavascript": 0,
+	"lessIeCompatibility": 1,
+	"lessOutputStyle": 0,
+	"lessRelativeURLS": 0,
+	"lessStrictImports": 0,
+	"lessStrictMath": 0,
+	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
+	"markdownAutoOutputPathRelativePath": "",
+	"markdownAutoOutputPathReplace1": "",
+	"markdownAutoOutputPathReplace2": "",
+	"markdownAutoOutputPathStyle": 0,
+	"markdownCriticStyle": 0,
+	"markdownEnableFootnotes": 1,
+	"markdownEnableLabels": 1,
+	"markdownEnableSmartQuotes": 1,
+	"markdownEscapeLineBreaks": 0,
+	"markdownMaskEmailAddresses": 1,
+	"markdownOutputFormat": 0,
+	"markdownOutputStyle": 0,
+	"markdownParseMetadata": 1,
+	"markdownProcessHTML": 0,
+	"markdownRandomFootnoteNumbers": 0,
+	"markdownUseCompatibilityMode": 0,
+	"reloadFileURLs": 0,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
+	"sassAutoOutputPathRelativePath": "..\/css",
+	"sassAutoOutputPathReplace1": "sass",
+	"sassAutoOutputPathReplace2": "css",
+	"sassAutoOutputPathStyle": 2,
+	"sassCreateSourceMap": 0,
+	"sassDebugStyle": 0,
+	"sassDecimalPrecision": 10,
+	"sassOutputStyle": 0,
+	"sassUseLibsass": 0,
+	"shouldRunAutoprefixer": 0,
+	"shouldRunBless": 0,
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs, node_modules",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
+	"slimAutoOutputPathRelativePath": "",
+	"slimAutoOutputPathReplace1": "",
+	"slimAutoOutputPathReplace2": "",
+	"slimAutoOutputPathStyle": 0,
+	"slimCompileOnly": 0,
+	"slimLogicless": 0,
+	"slimOutputFormat": 0,
+	"slimOutputStyle": 1,
+	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
+	"stylusAutoOutputPathRelativePath": "..\/css",
+	"stylusAutoOutputPathReplace1": "stylus",
+	"stylusAutoOutputPathReplace2": "css",
+	"stylusAutoOutputPathStyle": 2,
+	"stylusCreateSourceMap": 0,
+	"stylusDebugStyle": 0,
+	"stylusImportCSS": 0,
+	"stylusOutputStyle": 0,
+	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
+	"typescriptAutoOutputPathRelativePath": "\/js",
+	"typescriptAutoOutputPathReplace1": "",
+	"typescriptAutoOutputPathReplace2": "",
+	"typescriptAutoOutputPathStyle": 2,
+	"typescriptCreateDeclarationFile": 0,
+	"typescriptCreateSourceMap": 0,
+	"typescriptJSXMode": 0,
+	"typescriptMinifyOutput": 0,
+	"typescriptModuleResolutionType": 0,
+	"typescriptModuleType": 0,
+	"typescriptNoImplicitAny": 0,
+	"typescriptPreserveConstEnums": 0,
+	"typescriptRemoveComments": 0,
+	"typescriptSuppressImplicitAnyIndexErrors": 0,
+	"typescriptTargetECMAVersion": 0,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bare-returns": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_console": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"keep_fargs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_fnames": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"negate_iife": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"pure_getters": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "2"
+}

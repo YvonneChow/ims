@@ -1,0 +1,10 @@
+Components	2010-10 MAT	2011-10 MAT
+New	2265	2230
+Win	125	168
+Add-On	369	367
+Off Drug	-1024	-2746
+End	-1958	-154
+Loss	-159	-185
+Drop-Off	-335	-350
+Repeat	5449	5685
+Restart	132	129

@@ -1,0 +1,196 @@
+{
+    "assessment" : [
+        {   
+            "tutorial":{
+                "content":[
+                    {
+                        "text":{
+                            "class":"bold",
+                            "content":"What do you already know?"
+                        }
+                    },
+                    {
+                        "text":{
+                            "content":"The start of each module tests your knowledge with an Assessment. Your answers will be used to customize your lessons."
+                        }
+                    }
+                ]
+            },
+            "question" : [
+                {
+                    "text": {
+                        "class": "description",
+                        "content": "Postpartum hemorrhage is a major source of maternal morbidity and mortality worldwide.  In the US, approximately what percentage of deliveries is affected by this obstetrical emergency?"
+                    }
+                }
+            ],
+            "answers" : [
+                {
+                    "id" : 1,
+                    "class" : "single-select",
+                    "content": "< 1%"
+                },
+                {
+                    "id" : 2,
+                    "class" : "single-select",
+                    "content": "1–5%"
+                },
+                {
+                    "id" : 3,
+                    "class" : "single-select",
+                    "content": "10–15%"
+                },
+                {
+                    "id" : 4,
+                    "class" : "single-select",
+                    "content": "> 25%"
+                }
+            ],
+            "correct_answers":[2],
+            "mapping_lesson":"Scope of the PPH Problem",
+            "time_left":8
+        },
+        {
+           "question" : [
+                {
+                    "text": {
+                        "class": "description",
+                        "content": "In an average singleton pregnancy, the red blood cell volume increases by 20-30% while the plasma volume increases by 40-50%, resulting in a physiologic anemia."
+                    }
+                }
+            ],
+            "answers" : [
+                {
+                    "id" : 1,
+                    "class" : "single-select",
+                    "content": "True"
+                },
+                {
+                    "id" : 2,
+                    "class" : "single-select",
+                    "content": "False"
+                }
+            ],
+            "correct_answers":[1],
+            "mapping_lesson":"Facts About OB Hemorrhage",
+            "time_left":7 
+        },
+        {
+            "question" : [
+                {
+                    "text": {
+                        "class": "description",
+                        "content": "During the course of her labor, Amber had a pulse of 78 to 83 bpm. Her blood pressure ranged from 110 to 128 mmHg systolic and 62 to 78 diastolic. Her oxygen saturation by pulse oximetry was 98% on room air. Following an operative vaginal delivery with a fourth degree perineal laceration, Amber’s vital signs are as follows: pulse 132 bpm, blood pressure 85/52 mmHg, and oxygen saturation 92% on room air."
+                    }
+                },
+                 {
+                    "text": {
+                        "class": "bold",
+                        "content": "Based on the change in Amber’s vital signs, which of the following statements is most accurate?"
+                    }
+                }
+            ],
+            "answers" : [
+                {
+                    "id" : 1,
+                    "class" : "single-select",
+                    "content": "She has probably lost a minimal amount (< 5%) of her circulating blood volume."
+                },
+                {
+                    "id" : 2,
+                    "class" : "single-select",
+                    "content": "She has probably lost close to 15% of her circulating blood volume."
+                },
+                {
+                    "id" : 3,
+                    "class" : "single-select",
+                    "content": "She has probably lost 30 to 40% of her circulating blood volume."
+                },
+                {
+                    "id" : 4,
+                    "class" : "single-select",
+                    "content": "She has probably lost more than 60% of her circulating blood volume."
+                }
+            ],
+            "correct_answers":[3],
+            "mapping_lesson":"Maternal Physiology",
+            "time_left":6
+        },
+        {
+            "question" : [
+                {
+                    "text": {
+                        "class": "description",
+                        "content": "In which circumstance should you initiate blood component replacement immediately, rather than wait for lab test results?"
+                    }
+                }
+            ],
+            "answers" : [
+                {
+                    "id" : 1,
+                    "class" : "single-select",
+                    "content": "You see free bleeding of non-clotting blood."
+                },
+                {
+                    "id" : 2,
+                    "class" : "single-select",
+                    "content": "You estimate 1000 mL of blood loss from a postpartum hemorrhage."
+                },
+                {
+                    "id" : 3,
+                    "class" : "single-select",
+                    "content": "A patent’s pulse is 120 bpm without evidence of ongoing bleeding."
+                },
+                {
+                    "id" : 4,
+                    "class" : "single-select",
+                    "content": "A patient is taken to the OR for surgical management of postpartum hemorrhage."
+                }
+            ],
+            "correct_answers":[1],
+            "mapping_lesson":"Sample Algorithm",
+            "time_left":4
+        },
+        {
+            "question" : [
+                {
+                    "text": {
+                        "class": "description",
+                        "content": "A G1P1 woman recently delivered vaginally, sustaining a second-degree perineal laceration. An hour after the repair was completed, she began to experience an increase in vaginal bleeding.  Her fundus is firm, but slightly displaced to the right."
+                    }
+                },
+                 {
+                    "text": {
+                        "class": "bold",
+                        "content": "Which of the following early interventions is most likely to be effective in controlling this patient’s bleeding?"
+                    }
+                }
+            ],
+            "answers" : [
+                {
+                    "id" : 1,
+                    "class" : "single-select",
+                    "content": "Administering additional uterotonics"
+                },
+                {
+                    "id" : 2,
+                    "class" : "single-select",
+                    "content": "Emptying the patient’s bladder"
+                },
+                {
+                    "id" : 3,
+                    "class" : "single-select",
+                    "content": "Conducting vigorous fundal massage"
+                },
+                {
+                    "id" : 4,
+                    "class" : "single-select",
+                    "content": "Increasing the intravenous fluid rate"
+                }
+            ],
+            "correct_answers":[2],
+            "mapping_lesson":"Nurse Decision Making",
+            "time_left":2
+        }
+    ]
+}

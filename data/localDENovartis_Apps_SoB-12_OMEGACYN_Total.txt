@@ -1,0 +1,10 @@
+Components	Total
+New	493
+Win	71
+Add-On	268
+Off Drug	-333
+End	-216
+Loss	-68
+Drop-Off	-306
+Repeat	935
+Restart	38

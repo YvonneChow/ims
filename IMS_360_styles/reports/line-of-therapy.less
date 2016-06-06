@@ -1,0 +1,52 @@
+/*
+	Unique styles for Line of Therapy report
+	- some of these styles are expected 
+	  to be done in d3
+*/
+
+/*Report colors*/
+@LoT-node-color: rgba(172,172,172,1);
+
+//not in use below, but for reference, since these should be done in d3
+@LoT-branch-color: rgba(172,172,172,.4);
+@LoT-branch-focus-color: rgba(172,172,172,.6);
+@LoT-branch-continue-color: rgba(172,172,172,.05);
+
+.lineOfTherapy {
+	.branch {
+		opacity: .4;
+		&:hover {
+			opacity: .6;
+		}
+		.label {
+			font-size: @font-size-small;
+			font-weight: @font-weight-light;
+			vertical-align: middle;
+			text-align: right;
+			padding: 4px 15px 4px 15px; 
+			// ^ establish a min-line-height of 1.2 rem to avoid labels running into one another
+			.drugName {
+				font-weight: @font-weight-bold;
+			}
+			
+		}
+		.node {
+			background:@LoT-node-color;
+			width: 6px;
+		}
+		&.continueTherapy {
+			opacity: .05;
+			&:hover {
+				opacity: .2;
+			}
+			.node {
+				opacity: 0; //or display none, should be simply not added in d3
+			}
+			.label {
+				color: @font-color-secondary;
+			}
+		}
+	}
+
+
+}

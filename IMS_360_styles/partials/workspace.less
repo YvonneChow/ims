@@ -1,0 +1,49 @@
+body {
+	background:#fefefe;
+}
+
+.companyTitle {/*branded title, primarily for company workspaces*/
+	font-size:@font-size-large-title;
+}
+.workspaceMetadata {/*info along top right on sharing, creating, last updated*/
+	color: @font-color-secondary;
+	font-size: @font-size-base;
+	.updateData {
+		font-size:@font-size-small;
+	}
+}
+
+.card{
+	font-size: @font-size-base;
+	color: @font-color-secondary;
+	box-shadow: @shadows;
+	border: @card-border;
+	padding: 15px;
+	.title{
+		font-size:@font-size-title;
+		color:@font-color-base;
+	}
+	.updateDate {
+		font-size:@font-size-small;
+	}
+	.options { /*popup from card options*/
+		-moz-box-shadow: @shadows;
+		-webkit-box-shadow: @shadows;
+		box-shadow: @shadows;
+		border: @control-popup-border;
+	}
+	.back-card { /*cards stacked behind primary card*/
+		background-color: #ecf0f5;
+		box-shadow: @hard-shadow;
+	}
+	.stats {
+		font-size: @font-size-base; /*short, aggregate value contained in asset*/
+		.value { /*number itself*/
+			font-weight: @font-weight-bold;
+			font-size: @font-size-title;
+			.unit {
+				font-weight: @font-weight-light; /*ie shortening 'million' to M*/
+			}
+		}
+	}
+}

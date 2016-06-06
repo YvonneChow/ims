@@ -1,0 +1,128 @@
+/*
+	Unique styles for Matrix Report
+	and Patient Demographics
+	- some of these styles are expected 
+	  to be done in d3
+*/
+
+.table {
+	display: table;
+	width: 100%;
+	border-top: #d2d2d2 solid 1px;
+	border-bottom: #d2d2d2 solid 1px;
+	border-bottom: #d2d2d2 solid 1px;
+	.td {
+		display: table-cell;
+		border-right: #d2d2d2 solid 1px;
+		line-height: 2.82rem;
+		//width: 150px; //min. width should fit to a bootstrap grid column
+		//integers should fit to a 1 column width
+		//if there are <6 columns, fit to 2 column width
+		//most text-based columns should fit to 2 column width
+		padding: 0px 15px 0px 15px; 
+		//padding may not be needed, since columns should fit to a bootstrap grid column specs
+	}
+	.thead {
+		border-bottom: #d2d2d2 solid 1px;
+		box-shadow: 0px 1px 3px -1px rgba(0,0,0,.2);
+		position: fixed;
+		/* should be locked in place, so that rows look as if
+		   they are scrolling up and beneath it
+		*/
+		.th{
+			display: table-header-group;
+			background: #f7f5f4;
+
+			.td {
+				font-size: @font-size-small;
+				font-weight: @font-weight-bold;
+				color: @font-color-secondary;
+				&.sorted {
+					color: @font-color-base;
+				}
+				.arrow {
+					display: inline-block;
+					padding-left: 7px;	
+				}
+				.options {
+					float: right;
+					.lock {
+						display: inline-block;
+						padding-right: 7px;
+					}
+					.optionsArrow {
+						border-left: solid #d2d2d2 1px;
+						display: inline-block;
+						padding-left: 7px;
+					}		
+				}
+			}
+		}
+	}
+	.tbody {
+		.tr{
+			display: table-row;
+			width: auto;
+			.td {
+				font-size: @font-size-base;
+				&.integer {
+					text-align: right;
+					.value {
+						font-size: @font-size-large;
+					}
+				}
+				&locked {
+					box-shadow: 1px 0px 3px -1px rgba(0,0,0,.2);
+					/* ^ having some trouble with this one, and 
+					   may be solved with how table is structured.
+					   Currently styled, shadow axpands upwards and 
+					   down from cell, creating shadow along top and 
+					   bottom of cells.
+					   Columns that have been locked are frozen in 
+					   place and should have a horizontal shadow
+					   offset by 1px and blurred to 3
+					*/
+				}
+				.unit {
+					color: #979ba8;
+					padding-right: 10px;
+				}	
+			}
+			&.odd {
+				background: #fff;
+			}
+			&.even {
+				background: #fafafa;
+			}
+		}
+	}
+}
+
+#parameters {
+	.panel {
+		.section{
+			.parameterDimension {
+				ul {
+					.selected {
+						color: @font-color-link;
+					}
+					.hover {
+						background: @selected-grey;
+						border-radius: 12px;
+						padding: 0px 16px 0px 16px;
+						line-height: 2.2rem;
+					}
+					.drag {
+						background: @selected-grey;
+						border-radius: 12px;
+						padding: 0px 16px 0px 16px;
+						height: 22;
+						line-height: 2.2rem;
+						border: solid 1px #b1b5c5;
+						box-shadow: @shadow;
+					}
+				}
+			}
+		}
+	}
+}

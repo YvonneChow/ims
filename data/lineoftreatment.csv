@@ -1,0 +1,26 @@
+source,target,value,xPos,sourceSize,targetSize
+Market 9011,"Alphacyn 1753, 19.5%",19.45400067,1,9011,1753
+Market 9011,"Gammacyn 4467, 49.6%",49.57274442,1,9011,4467
+Market 9011,"Deltacyn, Gammacyn 76, 0.8%",0.843413606,1,9011,76
+Market 9011,"Betacyn 275, 3%",3.051825547,1,9011,275
+Market 9011,"Betacyn, Gammacyn 84, 0.9%",0.932193985,1,9011,84
+Market 9011,"Kappacyn 1095, 12.2%",12.15181445,1,9011,1095
+Market 9011,"Deltacyn 201, 2.2%",2.230607036,1,9011,201
+Market 9011,"Alphacyn, Gammacyn 334, 3.7%",3.706580846,1,9011,334
+Market 9011,"Omegacyn 431, 4.8%",4.783042948,1,9011,431
+Market 9011,"Alphacyn, Kappacyn 47, 0.5%",0.52158473,1,9011,47
+Market 9011,"Gammacyn, Omegacyn A 48, 0.5%",0.532682277,1,9011,48
+"Alphacyn 1753, 19.5%","Gammacyn 48, 0.1%",0.140750645,2,1753,48
+"Alphacyn 1753, 19.5%","Alphacyn, Gammacyn 305, 0.5%",0.410522716,2,1753,140
+"Gammacyn 4467, 49.6%","Deltacyn, Gammacyn 48, 0.02%",0.021676159,2,4467,48
+"Gammacyn 4467, 49.6%","Betacyn, Gammacyn 73, 0.03%",0.032965825,2,4467,73
+"Gammacyn 4467, 49.6%","Alphacyn, Gammacyn  305, 0.5%",0.074511796,2,4467,165
+"Betacyn, Gammacyn 84, 0.9%","Gammacyn 48, 0.01%",0.014682055,2,84,48
+"Alphacyn, Gammacyn 334, 3.7%",Alphacyn 88,0.520521887,2,334,88
+"Alphacyn, Gammacyn 334, 3.7%",Gammacyn 209,0.047387483,2,334,209
+"Deltacyn, Gammacyn  76, 0.8%",Gammacyn 51,0.005027407,2,76,51
+"Alphacyn, Gammacyn 140, 0.4%",Alphacyn 61,0.009180328,3,140,61
+"Alphacyn, Gammacyn 140, 0.4%",Gammacyn 66,47.14285714,3,140,66
+"Betacyn, Gammacyn  73, 0.03%",Gammacyn 43,58.90410959,3,73,43
+"Alphacyn, Gammacyn  305, 0.5%",Alphacyn 45,27.27272727,3,165,45
+"Alphacyn, Gammacyn  305, 0.5%",Gammacyn 105,63.63636364,3,165,105

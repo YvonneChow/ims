@@ -1,0 +1,162 @@
+/* variables */
+@input-height: 1.688rem; /*27px*/
+
+/* mix-ins */
+.border-radius { 
+	-webkit-border-radius:0.125rem;
+    -moz-border-radius:0.125rem;
+    border-radius:0.125rem;
+}
+.input-focus {
+	border: @focus-border;
+	box-shadow: @focus-shadow;
+}
+.button-hover {
+	background:@button-hover;
+	border:@button-hover-border;
+}
+
+button,.button {
+	.border-radius;
+	background: @button-base-bg; 
+	color: @font-color-base;
+	height: @input-height;
+	border: @input-border;
+	padding: 0 0.5625rem 0 0.5625rem;
+	line-height: 1.7rem;
+	&:hover {
+		.button-hover;
+	}
+	&:focus {
+		.input-focus;
+	}
+	
+	&.blue {
+		background: @button-blue-bg;
+		color: @font-color-button-blue;
+		font-weight: bold;
+		border: @button-border-blue;
+		&:hover{
+			background:@button-blue-hover;
+			border:@button-hover-border-blue;
+		}
+		&:focus {
+			.focus-border;
+		} 
+	}
+}
+
+.inputGroup {
+	.label {
+		color: @font-color-secondary;
+		margin-bottom: 0.625rem;
+	}
+	vertical-align: top;
+}
+
+input[type="text"]{
+	.border-radius;
+	border: @input-border;
+	height: @input-height;
+    padding: 0 0.5625rem 0 0.5625rem;
+	&:hover {
+    	border:@button-hover-border;
+    }
+    &:focus {
+		.focus-border;
+	}
+}
+
+input[type="select"]{
+	border-radius: 2px;
+	background: @button-base-bg; 
+}
+
+.range,.toggle {
+	.handle {
+		background: @button-blue-bg;
+		box-shadow: 0px 1px 5px 0px rgba(0,0,0,.2);
+	}
+	.track {
+		background: #fff;
+		border: @border-base;
+		box-shadow: inset 0px 1px 3px -1px rgba(0,0,0,.2);
+	}
+}
+.range {
+	.handle {
+		height: 14px;
+		width: 14px;
+		border-radius: 7px;
+	}
+	.track {
+		height: 5px;
+		border-radius: 3px;
+	}
+}
+.toggle {
+		.handle {
+		height: 20px;
+		width: 20px;
+		border-radius: 10px;
+	}
+	.track {
+		height: 15px;
+		border-radius: 7px;
+	}
+}
+.dropdown {
+	background:@ims-warm-gray;
+	box-shadow:@shadow;
+	border: @control-popup-border;
+	padding: 15px;
+	ul {
+		list-style: none;
+		li.active {
+			color: @font-color-link;
+			background: @selected-option;
+		}
+	}
+}
+
+.projectSettings {
+	font-size:@font-size-base;
+	padding-left: 15px;
+	padding-right: 15px;
+	max-height: 550px;
+	.header {
+		font-weight: @font-weight-bold;
+		color: @font-color-base;
+		line-height: 3.0rem; //header has a base height of 50px;
+		border-bottom: @border-base;
+	}
+	.section {
+		margin-top: 10px;
+		margin-bottom: 10px;
+		.title {
+			font-size: @font-size-large;
+			margin-bottom: 15px;
+		}
+		.label {
+			color: @font-color-secondary;
+		}
+		.parameter {
+			margin-right: 20px;
+			@:first-child {
+				margin-right:0px;
+			}
+		}
+	}
+	.footer {
+		font-weight: @font-weight-bold;
+		color: @font-color-base;
+		line-height: 1.9rem; //header has a base height of 50px;
+		border-top: @base-border;
+		padding-top: 8px;
+		padding-bottom: 8px;
+		.cancelLink {
+			margin-right: 20px;
+			color: @font-color-link;
+		}
+	}
+}

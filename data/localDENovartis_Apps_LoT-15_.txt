@@ -1,0 +1,105 @@
+{
+	"name": "Market", "Dropped": 1216, "EndOffset": 0, "Predominant": false, "FocusDrug": -1, "FirstLineCombi": -1, "Threshold": 5, "Backdata": 365, "MaxLines": 5, "MinPatients": 0, "MinPercentage": 0, "TopN": 25, "Patients": 9011,
+	"children":
+	[
+		{
+			"name": "ALPHACYN", "Patients": 1753, "LeftMean": 99, "Children": 266, "EntryMean": 0,
+			"children":
+			[
+				{
+					"name": "GAMMACYN", "Patients": 48, "LeftMean": 92, "Children": 10, "EntryMean": 73
+				},
+				{
+					"name": "ALPHACYN, GAMMACYN", "Patients": 140, "LeftMean": 107, "Children": 133, "EntryMean": 94,
+					"children":
+					[
+						{
+							"name": "ALPHACYN", "Patients": 61, "LeftMean": 43, "Children": 29, "EntryMean": 115
+						},
+						{
+							"name": "GAMMACYN", "Patients": 66, "LeftMean": 59, "Children": 19, "EntryMean": 103
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "GAMMACYN", "Patients": 4467, "LeftMean": 95, "Children": 439, "EntryMean": 0,
+			"children":
+			[
+				{
+					"name": "DELTACYN, GAMMACYN", "Patients": 48, "LeftMean": 96, "Children": 48, "EntryMean": 68
+				},
+				{
+					"name": "BETACYN, GAMMACYN", "Patients": 73, "LeftMean": 118, "Children": 65, "EntryMean": 104,
+					"children":
+					[
+						{
+							"name": "GAMMACYN", "Patients": 43, "LeftMean": 34, "Children": 15, "EntryMean": 139
+						}
+					]
+				},
+				{
+					"name": "ALPHACYN, GAMMACYN", "Patients": 165, "LeftMean": 121, "Children": 160, "EntryMean": 98,
+					"children":
+					[
+						{
+							"name": "ALPHACYN", "Patients": 45, "LeftMean": 37, "Children": 16, "EntryMean": 104
+						},
+						{
+							"name": "GAMMACYN", "Patients": 105, "LeftMean": 35, "Children": 38, "EntryMean": 131
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "DELTACYN, GAMMACYN", "Patients": 76, "LeftMean": 93, "Children": 76, "EntryMean": 0,
+			"children":
+			[
+				{
+					"name": "GAMMACYN", "Patients": 51, "LeftMean": 35, "Children": 24, "EntryMean": 80
+				}
+			]
+		},
+		{
+			"name": "BETACYN", "Patients": 275, "LeftMean": 85, "Children": 67, "EntryMean": 0
+		},
+		{
+			"name": "BETACYN, GAMMACYN", "Patients": 84, "LeftMean": 135, "Children": 73, "EntryMean": 0,
+			"children":
+			[
+				{
+					"name": "GAMMACYN", "Patients": 48, "LeftMean": 47, "Children": 14, "EntryMean": 129
+				}
+			]
+		},
+		{
+			"name": "KAPPACYN", "Patients": 1095, "LeftMean": 105, "Children": 76, "EntryMean": 0
+		},
+		{
+			"name": "DELTACYN", "Patients": 201, "LeftMean": 136, "Children": 122, "EntryMean": 0
+		},
+		{
+			"name": "ALPHACYN, GAMMACYN", "Patients": 334, "LeftMean": 117, "Children": 317, "EntryMean": 0,
+			"children":
+			[
+				{
+					"name": "ALPHACYN", "Patients": 88, "LeftMean": 57, "Children": 23, "EntryMean": 127
+				},
+				{
+					"name": "GAMMACYN", "Patients": 209, "LeftMean": 50, "Children": 50, "EntryMean": 110
+				}
+			]
+		},
+		{
+			"name": "OMEGACYN", "Patients": 431, "LeftMean": 53, "Children": 55, "EntryMean": 0
+		},
+		{
+			"name": "ALPHACYN, KAPPACYN", "Patients": 47, "LeftMean": 177, "Children": 30, "EntryMean": 0
+		},
+		{
+			"name": "GAMMACYN, OMEGACYN", "Patients": 48, "LeftMean": 116, "Children": 41, "EntryMean": 0
+		}
+	]
+}

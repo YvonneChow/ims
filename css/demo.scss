@@ -1,0 +1,206 @@
+$font-family: Helvetica;
+$nav_bag: #34363b;
+$nav_font_color: #ffffff;
+$nav_border_color: #000000;
+$nav-sub_bg_color: #f7f5f4;
+$nav-sub_border_color: #e7e7e7;
+$nav-sub_progress_bg_color: #dfdfdf;
+$nav-sub_progress_font_color: #929292;
+
+nav.navbar-top{
+	background-color: $nav_bag;
+	border-width: 0;
+	border-radius: 0;
+	margin-bottom: 0;
+
+	ul.navbar-nav{		
+		li{	
+			color: $nav_font_color;
+			font-weight: lighter;
+			letter-spacing: 1px;
+			line-height: 50px;
+			padding: 0 20px;
+
+			span.glyphicon{
+				font-size: 0.8em;
+				margin-left: 6px;
+			}
+		}
+		li:first-child{
+			padding-left: 0;
+			border-right: 1px solid $nav_border_color;
+		}
+
+		&.navbar-right{
+			li{
+				span.glyphicon{
+					font-size: 1.2em;
+					transform: rotate(90deg);
+				}
+			}
+			li:last-child{
+				font-size: 1.5em;
+				padding-right: 0;
+			}
+		}
+	}
+}
+
+nav.navbar-sub{
+	border-radius: 0;
+	margin-bottom: 0;
+	background-color: $nav-sub_bg_color;
+
+	div.container-fluid,div.navbar-collapse{
+		padding: 0;
+	}
+	ul.navbar-nav{
+		background-color: $nav-sub_bg_color;	
+		&.progress-nav>li{	
+			color: $nav-sub_progress_font_color;
+			font-weight: bold;
+			line-height: 50px;
+			padding: 0 20px;
+			background-color: $nav-sub_progress_bg_color;
+			position: relative;
+			margin-right:3px;
+
+			&.current{
+				background-color: $nav-sub_bg_color;
+				color: black;
+				padding-right: 0;
+
+				&:last-child{
+					padding-right: 20px;
+					border-right: 1px solid $nav-sub_progress_bg_color;
+				}
+
+				&>a{
+					height: 40px;
+					width: 180px;
+					margin: 5px 0;
+					padding: 10px 0 0 20px;
+					font-weight: normal;
+					border-left: 1px solid $nav-sub_progress_bg_color;
+					//border-right: 1px solid $nav-sub_progress_bg_color;
+
+					span.glyphicon{
+						top: 4px;
+					}
+
+				}
+
+				ul.dropdown-menu{
+					left:20px;
+					width: 200px;
+				}	
+			}
+			a{
+				color: black;
+			}
+
+			/**arrow**/
+			&:first-child:after{
+				content: ' ';
+				width:0;
+				height:0;
+				border: 25px solid transparent;
+				border-width: 25px 14px 25px 14px;
+				border-left-color:$nav-sub_progress_bg_color;
+				position: absolute;
+				right: -28px;
+				top: 0;
+				z-index: 3;
+			}
+			/**arrow**/
+			&:nth-child(2):before{
+				content: ' ';
+				width:0;
+				height:0;
+				border: 25px solid transparent;
+				border-width: 25px 14px 25px 14px;
+				border-left-color:$nav-sub_bg_color;
+				position: absolute;
+				left: 0px;
+				top: 0;
+				z-index: 2;
+			}
+			/**arrow**/
+			&:nth-child(2):after{
+				content: ' ';
+				width:0;
+				height:0;
+				border: 25px solid transparent;
+				border-width: 25px 14px 25px 14px;
+				border-left-color:$nav-sub_progress_bg_color;
+				position: absolute;
+				right: -28px;
+				top: 0;
+				z-index: 3;
+			}
+
+			span.glyphicon{
+				font-size: 0.8em;
+				margin-left: 6px;
+			}
+		}
+
+		// change bootstrap nav a css style
+		&>.open>a:hover,.open>a:focus{
+			background-color:$nav-sub_bg_color;
+			color: black;
+		}
+
+		&>li:first-child{
+			padding-left: 30px;
+		}
+	}
+
+	ul.navbar-right{
+		margin-right:0;
+		background-color:$nav-sub_bg_color;
+		&>li{
+			line-height: 50px;
+			padding: 0 20px;
+			border-left: 1px solid $nav-sub_border_color; 
+			&:first-child{
+				border-left:none;
+			}
+			&.light_gray{
+				color: #a2a1a1; 
+			}
+			&.blue{
+				color: #00aeef; 
+			}
+
+			span.glyphicon{
+				font-size: 0.8em;
+				margin: 0 6px;
+			}
+		}
+
+	}
+}
+
+h3{
+	margin-left: 30px;
+	font-weight:lighter;
+	color: #5c5d5d;
+}
+h4{
+	@extend h3;
+
+	span.text-underline{
+		display: inline-block;
+		border-bottom: 1px solid #5c5d5d; 
+		margin-right: 5px;
+		padding-bottom: 5px;
+	}
+
+	span#patient_number{
+		font-size: 0.7em;
+		display: inline-block;
+		margin-left: 20px;
+		color: #828590;
+	}
+}

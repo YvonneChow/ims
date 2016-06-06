@@ -1,0 +1,261 @@
+.fl-right { float: right; }
+.fl-left { float: left; }
+
+.topNav {
+	height: 3.125rem;
+	background: @main-nav-color;
+	color: @font-color-nav;
+	font-size: @font-size-base;
+	ul {
+		list-style:none;
+		display: inline-block;
+		margin-left: -2.5rem;
+		margin-top: 0rem;
+		li {
+			display:inline-block;
+			padding: 0 0.9375rem 0 0.9375rem;
+			line-height: 3.125rem;
+			#user { border-right: @main-nav-border;}
+			&:hover { background: @main-nav-selected; }
+			&:first-child { padding-left: 1.875rem;}
+			&:last-child {height: 3.125rem;} /*hack to fix alert adding 1.5px to li*/
+			&:nth-child(2) {margin-left: -0.1875rem;} /*hack to space between user and workspaces*/
+			a {
+				color: @font-color-nav;
+				&:hover {
+					text-decoration: none;
+				}
+			}
+			.alert {
+				min-width: 0.688rem;
+				background: @alert-color;
+				border-radius: 0.6875rem;
+				font-size: 0.5rem;
+				padding: 0 .25rem 0 .25rem;
+				position: relative;
+				top: -0.0625rem;
+				left: 0.125rem;
+			}
+		}
+	}
+	.logo-container {
+		div { display:inline-block;}
+		#logo {
+			border-left:@main-nav-border;
+			height: 2.187rem;
+			padding: 0.9375rem 1.875rem 0 0.9375rem;
+		}
+		#search {
+			padding-right: 0.9375rem;
+			position: relative;
+			height: 1.5rem;
+			width: 0.9375rem;
+			img {
+				position: absolute;
+				top: 0;
+				left: 0;
+			}
+		}
+	}
+	.dropdown {
+		background:@main-nav-selected;
+		ul {
+			li {
+				color:@font-color-nav;
+			}
+		}
+	}
+}
+
+.subNav {
+	height: 2.813rem;
+	background: @sub-nav-color;
+	border-bottom: @sub-nav-border;
+	color: @font-color-base;
+	overflow: hidden;
+	ul {
+		list-style:none;
+		margin: 0;
+		padding: 0;
+		li {
+			box-sizing: border-box;
+			display:inline-block;
+			position: relative;
+			height: 2.813rem;
+			padding: 0.9375rem 0.9375rem 0 0.9375rem;
+			margin-left: -0.1875rem;
+			vertical-align: top;
+			a {
+				color: @font-color-base;
+			}
+			&:hover {
+				background: @sub-nav-selected;
+				a {
+					text-decoration: none;
+					font-weight: bold; 
+					color: @font-color-base;
+					cursor: pointer;
+				}
+			}
+			.name {
+				font-weight:  bold;
+				color: @font-color-base;
+			}
+		}
+	}
+	&.breadcrumbNav{
+			float: left;
+			
+			.breadcrumb{
+				padding-right: 0.25rem;
+				
+				.name {
+					font-weight: bold; 
+				}
+			}
+
+			li{
+				//background: @sub-nav-selected;
+				background: @sub-nav-color;
+				//padding-right: 1.25rem;
+				padding: 0.9375rem 0 0 1.875rem;
+
+				svg { 
+					//fill: @font-color-link; 
+					fill: @font-color-secondary;
+				} 
+				&:before,
+				&:after{
+					content: "";
+					position: absolute;
+					top: 0;
+					right:  -1.0625rem;//.125rem;
+					width: 0; 
+					height: 0; 
+					border-top: 1.438rem solid transparent;
+					border-bottom: 1.438rem solid transparent;
+					//border-left: 0.9375rem solid @sub-nav-color;
+					border-left: 0.9375rem solid @sub-nav-selected;
+					z-index: 3;
+				}
+				&:after{
+					right:  -0.9375rem;//0.25rem;
+					//border-left: 0.9375rem solid @sub-nav-selected;
+					border-left: 0.9375rem solid @sub-nav-color;
+				}
+				&:first-child{
+					padding-left: 2rem;
+				}
+				&:last-child{
+					padding-right: 0;
+					margin-right: -0.9375rem;
+					&:before{
+						display: none;
+					}
+					&:after{
+						display: none;
+					}
+				}
+				&:hover { 
+					svg { fill: @font-color-base; }
+					background: @sub-nav-selected;
+					&:after{
+						border-left: 0.9375rem solid @sub-nav-selected;
+					}
+					&:last-child{
+						background: @sub-nav-color;
+						&:after{
+							border-left-color: @sub-nav-color;
+						}
+					}
+				}
+				#workspaceLandingButton svg {
+					margin-top:  0.125rem;
+				}
+				#workspaceButton svg{
+					margin-top: 0.1875rem;
+					margin-left: -0.25rem;
+				}
+			}
+		}
+		&.reportNav{
+			float: left;
+
+			.subNavTitle { 
+				font-weight:  bold; 
+			}
+			li{
+				svg { 
+					fill: @font-color-link; 
+				}
+				&:hover, .active {
+					svg { 
+						fill: @font-color-base; 
+					}
+				}
+				&:first-child{
+					&:hover{
+						background: @sub-nav-color;
+					}
+				}
+				&.border{
+					&:before{
+						content: "";
+						position: absolute;
+						top: 8px;
+						right: 0;
+						height: 30px;
+						border-right: @sub-nav-border;
+					}
+				}
+				#sankey {
+					margin-top:0.1875rem;
+				}
+				#switchBasic {
+					margin-top: 0.125rem;
+				}
+			}
+			.arrow {
+				background: url("../images/svgs/imsHealth_icons_ui-drop-arrow.svg") no-repeat;
+				display: inline-block;
+				width:  0.5rem;
+				height: 0.3125rem;
+				margin-left: 0.625rem;
+			}
+		}
+		&.reportSettings{
+			float: right;
+			li{
+				&:last-child {
+					padding-right: 1.875rem;
+				}
+				&:before{
+					content: "";
+					position: absolute;
+					top: 0;
+					left: 0;
+					height:  2.813rem;
+					border-left: @sub-nav-border;
+				}
+				svg { 
+					fill: @font-color-link; 
+				}
+				&:hover {
+					svg { 
+						fill: @font-color-base; 
+					}
+				}
+			}
+		}
+	}
+	&#subNavWorkspace{
+		.fave {
+			display: inline-block;
+			margin-right: -1rem;
+		}
+		#workspaceButton {
+			padding-left: 0;
+		}
+	}
+}
+

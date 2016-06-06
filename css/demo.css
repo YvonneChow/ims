@@ -1,0 +1,137 @@
+nav.navbar-top {
+  background-color: #34363b;
+  border-width: 0;
+  border-radius: 0;
+  margin-bottom: 0; }
+  nav.navbar-top ul.navbar-nav li {
+    color: #ffffff;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    line-height: 50px;
+    padding: 0 20px; }
+    nav.navbar-top ul.navbar-nav li span.glyphicon {
+      font-size: 0.8em;
+      margin-left: 6px; }
+  nav.navbar-top ul.navbar-nav li:first-child {
+    padding-left: 0;
+    border-right: 1px solid #000000; }
+  nav.navbar-top ul.navbar-nav.navbar-right li span.glyphicon {
+    font-size: 1.2em;
+    transform: rotate(90deg); }
+  nav.navbar-top ul.navbar-nav.navbar-right li:last-child {
+    font-size: 1.5em;
+    padding-right: 0; }
+
+nav.navbar-sub {
+  border-radius: 0;
+  margin-bottom: 0;
+  background-color: #f7f5f4; }
+  nav.navbar-sub div.container-fluid, nav.navbar-sub div.navbar-collapse {
+    padding: 0; }
+  nav.navbar-sub ul.navbar-nav {
+    background-color: #f7f5f4; }
+    nav.navbar-sub ul.navbar-nav.progress-nav > li {
+      color: #929292;
+      font-weight: bold;
+      line-height: 50px;
+      padding: 0 20px;
+      background-color: #dfdfdf;
+      position: relative;
+      margin-right: 3px;
+      /**arrow**/
+      /**arrow**/
+      /**arrow**/ }
+      nav.navbar-sub ul.navbar-nav.progress-nav > li.current {
+        background-color: #f7f5f4;
+        color: black;
+        padding-right: 0; }
+        nav.navbar-sub ul.navbar-nav.progress-nav > li.current:last-child {
+          padding-right: 20px;
+          border-right: 1px solid #dfdfdf; }
+        nav.navbar-sub ul.navbar-nav.progress-nav > li.current > a {
+          height: 40px;
+          width: 180px;
+          margin: 5px 0;
+          padding: 10px 0 0 20px;
+          font-weight: normal;
+          border-left: 1px solid #dfdfdf; }
+          nav.navbar-sub ul.navbar-nav.progress-nav > li.current > a span.glyphicon {
+            top: 4px; }
+        nav.navbar-sub ul.navbar-nav.progress-nav > li.current ul.dropdown-menu {
+          left: 20px;
+          width: 200px; }
+      nav.navbar-sub ul.navbar-nav.progress-nav > li a {
+        color: black; }
+      nav.navbar-sub ul.navbar-nav.progress-nav > li:first-child:after {
+        content: ' ';
+        width: 0;
+        height: 0;
+        border: 25px solid transparent;
+        border-width: 25px 14px 25px 14px;
+        border-left-color: #dfdfdf;
+        position: absolute;
+        right: -28px;
+        top: 0;
+        z-index: 3; }
+      nav.navbar-sub ul.navbar-nav.progress-nav > li:nth-child(2):before {
+        content: ' ';
+        width: 0;
+        height: 0;
+        border: 25px solid transparent;
+        border-width: 25px 14px 25px 14px;
+        border-left-color: #f7f5f4;
+        position: absolute;
+        left: 0px;
+        top: 0;
+        z-index: 2; }
+      nav.navbar-sub ul.navbar-nav.progress-nav > li:nth-child(2):after {
+        content: ' ';
+        width: 0;
+        height: 0;
+        border: 25px solid transparent;
+        border-width: 25px 14px 25px 14px;
+        border-left-color: #dfdfdf;
+        position: absolute;
+        right: -28px;
+        top: 0;
+        z-index: 3; }
+      nav.navbar-sub ul.navbar-nav.progress-nav > li span.glyphicon {
+        font-size: 0.8em;
+        margin-left: 6px; }
+    nav.navbar-sub ul.navbar-nav > .open > a:hover, nav.navbar-sub ul.navbar-nav .open > a:focus {
+      background-color: #f7f5f4;
+      color: black; }
+    nav.navbar-sub ul.navbar-nav > li:first-child {
+      padding-left: 30px; }
+  nav.navbar-sub ul.navbar-right {
+    margin-right: 0;
+    background-color: #f7f5f4; }
+    nav.navbar-sub ul.navbar-right > li {
+      line-height: 50px;
+      padding: 0 20px;
+      border-left: 1px solid #e7e7e7; }
+      nav.navbar-sub ul.navbar-right > li:first-child {
+        border-left: none; }
+      nav.navbar-sub ul.navbar-right > li.light_gray {
+        color: #a2a1a1; }
+      nav.navbar-sub ul.navbar-right > li.blue {
+        color: #00aeef; }
+      nav.navbar-sub ul.navbar-right > li span.glyphicon {
+        font-size: 0.8em;
+        margin: 0 6px; }
+
+h3, h4 {
+  margin-left: 30px;
+  font-weight: lighter;
+  color: #5c5d5d; }
+
+h4 span.text-underline {
+  display: inline-block;
+  border-bottom: 1px solid #5c5d5d;
+  margin-right: 5px;
+  padding-bottom: 5px; }
+h4 span#patient_number {
+  font-size: 0.7em;
+  display: inline-block;
+  margin-left: 20px;
+  color: #828590; }

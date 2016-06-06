@@ -1,0 +1,10 @@
+Components	2010-01 QRT	2010-04 QRT	2010-07 QRT	2010-10 QRT	2011-01 QRT	2011-04 QRT	2011-07 QRT	2011-10 QRT
+New	0	1	1	1	6	1	1	0
+Win	0	1	1	0	3	2	1	1
+Add-On	0	2	3	2	1	2	7	1
+Off Drug	0	-1	0	-1	-2	-4	-3	-2
+End	0	0	-1	0	-1	0	0	0
+Loss	0	0	0	0	0	0	0	-1
+Drop-Off	0	-2	-2	-1	-3	-4	-4	-1
+Repeat	3	5	5	8	11	11	13	11
+Restart	0	0	0	0	0	0	0	0

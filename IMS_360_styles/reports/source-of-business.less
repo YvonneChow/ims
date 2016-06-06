@@ -1,0 +1,53 @@
+/*
+	Unique styles for Source of Business report
+	- some of these styles are expected 
+	  to be done in d3
+*/
+
+.sortControl {
+	font-size:@font-size-base;
+	color:@font-color-base;
+}
+
+.switchMatrix {
+
+	.node {
+		height:6px;
+	}
+	.branch {
+		opacity: .4;
+		&:hover {
+			opacity: .6;
+		}
+	}
+	.label {
+		color: @font-color-secondary;
+		font-size: @font-size-small;
+		font-weight: @font-weight-light;
+		padding-top: 15px;
+		padding-bottom: 15px;
+		&.active{ //when a branch is focused
+			color: @font-color-base;
+			font-weight:@font-weight-bold;
+		}
+	}
+	.focusOverlay {
+		background: rgba(255,255,255,.8);
+	}
+	.minimizedNodeDrawer {
+		border-left: solid #e4e4e4 1px;
+		border-right: solid #e4e4e4 1px;
+		padding-left: 1px;
+		padding-right: 1px;
+		.minimizedNodeOverlay {
+			border-left: solid #e4e4e4 1px;
+			border-right: solid #e4e4e4 1px;
+			background: rgba(252,252,252,.85);
+		}
+		&.expanded { 
+			.minimizedNodeOverlay {
+				background: rgba(252,252,252,0);
+			}
+		}
+	}
+}

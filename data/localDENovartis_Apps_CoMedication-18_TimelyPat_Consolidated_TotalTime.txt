@@ -1,0 +1,7 @@
+Combo	Total
+Mono	9988
+Combo2	2145
+Combo3	636
+Combo4	122
+Combo5	17
+Combo6	3

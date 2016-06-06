@@ -1,0 +1,122 @@
+@import "../reports/source-of-business";
+//@import "../reports/persistence";
+@import "../reports/matrix-report"; 
+	//also serves as styles for patient demographics
+@import "../reports/line-of-therapy";
+//@import "../reports/co-medication";
+//@import "../reports/compliance";
+//@import "../reports/patients-on-drug";
+#reportTitle {
+	font-size:@font-size-title;	
+	color:@font-color-base;
+	.default {
+		color:@font-color-secondary;
+	}
+}
+#reportDescription {
+	font-size: @font-size-small-title;
+}
+
+#chart {
+	.axis, #legend {
+		font-size: @font-size-small;
+		color:@font-color-secondary;	
+	}
+	.y-axis .label{
+		margin-top: 7px;
+	}
+	.x-axis .label{
+		margin-bottom: 7px;
+	}
+	#legend {
+		.label {
+			padding-left: 9px;
+		}
+	}
+	.label { 
+		font-size: @font-size-base;
+		//typically drug names, dimensions, on-report values
+		line-height: 1.4rem;
+		// ^ refers to the lineheight for multiline within a value, but not for all listed values
+		// space between all listed values should be determined by size of chart
+	}
+	.tip {
+		background: rgba(38,42,51,.85);
+		color: @report-hover-tip-text;
+		font-size: @font-size-base;
+		border-radius: 0.75rem;
+		padding: 0.9375rem;
+		max-width: 12.5rem;
+	}
+}
+
+#moreInformation {
+	#moreInfoIcon {
+		fill: #b4e7fa;
+		&:hover{
+			fill: #252525;
+		}	
+	}
+	.popup{
+		box-shadow: @shadow;
+		border: @control-popup-border;
+		background: @ims-warm-gray;
+		font-size: @font-size-large;
+		color: @font-color-base;
+		a:hover {
+			text-decoration: underline;
+		}
+	}
+}
+
+#timeline {
+	height: 43px;
+	border-top: solid #d6d6d6 1px;
+
+	.dateSelection {
+		//label above timeline
+		color:@font-color-secondary;
+		font-size: @font-size-small;
+		margin-bottom: 7px;
+		line-height: 1.4rem;
+		.date {
+			color:@font-color-base;
+			font-weight: @font-weight-bold;
+		}
+	}
+	.dateLabel {
+		//labels within timeline
+		text-transform:uppercase;
+		color:@font-color-secondary;
+		font-size: @font-size-small;
+		.selectDisabled {
+			opacity: .4
+		}
+	}
+	.selectedTime {
+		background: rgba(196,224,243,.6);
+	}
+	.backData {
+		background: rgba(199,199,199,.6);
+	}
+	.timeSelectDisabled {
+		background: rgba(221,221,221,.4);
+		.label {
+			opacity: .4
+		}
+		.ticks {
+			opacity: .4
+		}
+	}
+	.ticks {
+		.month {
+			background: rgba(214,214,214,.15);
+		}
+		.year {
+			background: rgba(214,214,214,.3);
+		}
+		.selectDisabled {
+			opacity: .4
+		}
+	}	
+}

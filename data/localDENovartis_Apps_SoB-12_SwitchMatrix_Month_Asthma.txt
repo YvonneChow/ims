@@ -1,0 +1,56 @@
+Product	Target	Patients
+Alvesco	Symbicort Turbuh	26
+Alvesco	Seretide	34
+Alvesco	Spiriva	27
+Atrovent	Spiriva	51
+Atrovent	Flixotide	21
+Atrovent	Symbicort Turbuh	41
+Atrovent	Seretide	63
+Beclomet	Alvesco	38
+Beclomet	Spiriva	42
+Beclomet	Flixotide	34
+Beclomet	Seretide	56
+Beclomet	Symbicort Turbuh	72
+Budesonid	Alvesco	31
+Budesonid	Seretide	27
+Budesonid	Symbicort Turbuh	38
+Budesonid	Spiriva	35
+Flixotide	Alvesco	69
+Flixotide	Atrovent	20
+Flixotide	Beclomet	25
+Flixotide	Serevent	28
+Flixotide	Spiriva	75
+Flixotide	Symbicort Turbuh	60
+Flixotide	Seretide	237
+Breezhaler	Spiriva	22
+Turbuhaler	Pulmicort	38
+Pulmicort	Alvesco	32
+Pulmicort	Atrovent	21
+Pulmicort	Flixotide	24
+Pulmicort	Turbuhaler	40
+Pulmicort	Spiriva	37
+Pulmicort	Seretide	41
+Pulmicort	Symbicort Turbuh	120
+Seretide	Alvesco	36
+Seretide	Atrovent	58
+Seretide	Beclomet	33
+Seretide	Flixotide	142
+Seretide	Symbicort Turbuh	54
+Seretide	Spiriva	337
+Serevent	Atrovent	63
+Spiriva	Atrovent	46
+Spiriva	Beclomet	40
+Spiriva	Flixotide	57
+Spiriva	Breezhaler	31
+Spiriva	Pulmicort	24
+Spiriva	Seretide	276
+Spiriva	Symbicort Turbuh	217
+Symbicort Turbuh	Alvesco		39
+Symbicort Turbuh	Atrovent	36
+Symbicort Turbuh	Beclomet	24
+Symbicort Turbuh	Budesonid	27
+Symbicort Turbuh	Pulmicort	75
+Symbicort Turbuh	Seretide	82
+Symbicort Turbuh	Spiriva	223
+Symbicort Turbuh	Flixotide	32
+Ventoline	Flixotide	56

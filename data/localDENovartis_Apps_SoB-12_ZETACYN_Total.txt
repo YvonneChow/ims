@@ -1,0 +1,10 @@
+Components	Total
+New	11
+Win	7
+Add-On	15
+Off Drug	-12
+End	-2
+Loss	-1
+Drop-Off	-12
+Repeat	26
+Restart	0
